@@ -1,3 +1,5 @@
+Ignore everything below, it's all wrong!!!! Except the things that Sasha did.
+
 Description of GAM Matrices:
 
 
