@@ -114,7 +114,7 @@ def cosegregation_frequency_ndim(loci):
 
     for sample in loci.T:
 
-        counts[tuple(sample)] += 1
+        counts[tuplesample)] += 1
 
     return counts
 
