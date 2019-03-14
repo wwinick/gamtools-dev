@@ -107,7 +107,7 @@ def cosegregation_frequency_ndim(loci):
     possible combinations of the n loci.
     """
 
-    counts_shape = (2,) * loci.shape[0]
+    counts_shape = 2,) * loci.shape[0]
 
     counts = np.zeros(counts_shape)
 
